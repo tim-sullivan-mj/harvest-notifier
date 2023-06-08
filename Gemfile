@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-ruby "2.6.8"
+ruby "3.2.0"
 
 gem "activesupport"
 gem "dotenv"
