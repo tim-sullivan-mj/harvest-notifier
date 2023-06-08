@@ -44,7 +44,7 @@ blocks:
     task:
       prologue:
         commands:
-          - sem-version ruby 2.6.8
+          - sem-version ruby 3.2.0
           - bundle install
 
       jobs:
